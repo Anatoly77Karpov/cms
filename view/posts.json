@@ -1,0 +1,42 @@
+{
+	"1": {
+		"category": "Coding",
+		"title": "State of Java: Resilience amid licensing changes and security concerns",
+		"url": "state-of-java-resilience-amid-licensing-changes-and-security-concerns"
+	},
+	"2": {
+		"category": "Artificial Intelligence",
+		"title": "Lightning AI becomes a PyTorch Foundation premier member",
+		"url": "lightning-ai-becomes-a-pytorch-foundation-premier-member"
+	},
+	"3": {
+		"category": "Coding",
+		"title": "Python Developers Survey: Python 2 clings on for certain use cases",
+		"url": "python-developers-survey-python-2-clings-on-for-certain-use-cases"
+	},
+	"4": {
+		"category": "Artificial Intelligence",
+		"title": "SAP empowers developers with generative AI capabilities",
+		"url": "sap-empowers-developers-with-generative-ai-capabilities"
+	},
+	"5": {
+		"category": "Security",
+		"title": "Android finally checks sideloaded apps for malware before installs",
+		"url": "android-finally-checks-sideloaded-apps-for-malware-before-installs"
+	},
+	"6": {
+		"category": "Security",
+		"title": "Sauce Labs exposes some developers\u2019 risky habits",
+		"url": "sauce-labs-exposes-some-developers-risky-habits"
+	},
+	"7": {
+		"category": "Open source",
+		"title": "Ruby on Rails creator deplores \u2018open-source hooliganism\u2019",
+		"url": "ruby-on-rails-creator-deplores-open-source-hooliganism"
+	},
+	"8": {
+		"category": "Open source",
+		"title": "Linux Foundation launches Open Metaverse Foundation",
+		"url": "linux-foundation-launches-open-metaverse-foundation"
+	}
+}
